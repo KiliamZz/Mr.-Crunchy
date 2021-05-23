@@ -1,0 +1,11 @@
+.gallery__img{
+    object-fit: cover;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: all.5s;
+    height: 350px;
+}
+.gallery__img:hover{
+    transform: scale(1.02);
+}
+
